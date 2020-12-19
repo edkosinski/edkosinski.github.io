@@ -1,2 +1,2 @@
-# edkosinski.github.io
+# kosinski_rowan.github.io
 Family Tree
