@@ -15,7 +15,7 @@ DB_SIZES = {
     "P": 1853,
     "R": 2,
     "S": 104
-};NB_GENERATIONS_MAX = 30;
+};NB_GENERATIONS_MAX = 100;
 PAGES_FILE = ["index.html", "", "tree_svg.html"];
 PAGES_TITLE = ["Home", "Indexes", "Tree"];
 PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "places.html", "repositories.html", "address.html"];
